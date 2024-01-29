@@ -2,7 +2,7 @@
   USER MANAGER
 </h1>
 
-API para gerenciamento usuários (CRUD) 
+API para gerenciamento usuários (CRUD), com implementação do tratamento de exceções e cobertura de testes unitários e de integração usando TestContainers
 
 ## Tecnologias
 
